@@ -1,0 +1,89 @@
+.header{
+	background-color: blue;
+	height: 80px;
+}
+.logo{
+	  color: #ffffff;
+	  padding: 20px 20px 0px 30px;
+}
+
+.road{
+
+	 text-align: center;
+	 color: red;
+
+}
+
+.house{
+
+       background-color: #808080;
+       margin: 40px;
+       padding: 20px;
+
+}
+
+.key {
+	   margin-top: -8px;
+	   color: orange;
+	   text-align: center;
+}
+.down {
+	     text-decoration: none;
+}
+/*table,th,td
+ {
+	border: 1px solid black;
+
+}
+
+tr:hover { background-color: grey;}
+	table
+         {  
+          border-collapse: collapse; }
+}*/
+
+#customers {
+	 font-family: "Trebuchet MS", Arial, "Times New Roman",Serif;
+	 width: 100%;
+	 margin: 40px;
+	  border-collapse: collapse;
+}
+#customers td, #customers th{
+
+	border: 1px solid #ddd;
+    padding: 10px;
+}
+
+#customers tr:nth-child(odd){background-color: #f2f2f2;
+}
+
+#customers tr:hover {background-color:#ddd;}
+
+ th {
+ 	   padding: 10px;
+ 	   background-color: #4CAF50;
+ 	   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
